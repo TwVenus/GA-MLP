@@ -1,5 +1,4 @@
 # GA-MLP
----
 　
 ![](https://i.imgur.com/zLPaZWm.png)
 ![](https://i.imgur.com/Yvyzkii.png)　
